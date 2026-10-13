@@ -1,0 +1,10 @@
+SITE WEB GRATUIT — MODE D’EMPLOI
+
+1. Créez un compte gratuit sur GitHub (github.com).
+2. Créez un dépôt public nommé poulailler-saint-gervais.
+3. Dans le dépôt, cliquez sur Add file > Upload files. Envoyez index.html ET le dossier photos avec ses cinq images (ou utilisez une interface de dépôt qui conserve les dossiers).
+4. Dans Settings > Pages, choisissez Deploy from a branch, branche main et dossier / (root), puis Save.
+5. Attendez la publication. L’adresse sera de la forme https://VOTRE-NOM.github.io/poulailler-saint-gervais/ .
+6. Transmettez cette adresse pour produire un QR code définitif et vérifiable.
+
+Important : ne générez pas de QR code avant la publication effective.
